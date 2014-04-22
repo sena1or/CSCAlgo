@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryHeap/BinaryHeap.iml" filepath="$PROJECT_DIR$/BinaryHeap/BinaryHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSCAlgo.iml" filepath="$PROJECT_DIR$/CSCAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisJoinSet/DisJoinSet.iml" filepath="$PROJECT_DIR$/DisJoinSet/DisJoinSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Karatsuba/Karatsuba.iml" filepath="$PROJECT_DIR$/Karatsuba/Karatsuba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repeater/Repeater.iml" filepath="$PROJECT_DIR$/Repeater/Repeater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SegmentTree/SegmentTree.iml" filepath="$PROJECT_DIR$/SegmentTree/SegmentTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+    </modules>
+  </component>
+</project>
+
